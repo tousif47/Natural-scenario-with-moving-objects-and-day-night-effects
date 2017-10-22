@@ -2,3 +2,5 @@
 An OpenGL project for my Computer Graphics course.
 
 Please watch the video for project demonstration!
+
+https://youtu.be/qUeODPQbbO8
